@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Training\\source\\repos\\FileHandlingDemo\\MultiThreadingDemo\\MultiThreadingDemo.csproj": {}
+    "C:\\Users\\Training\\Source\\Repos\\CsharpTrainingDemo\\Regexsample\\FileHandlingDemo\\MultiThreadingDemo\\MultiThreadingDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Training\\source\\repos\\FileHandlingDemo\\MultiThreadingDemo\\MultiThreadingDemo.csproj": {
+    "C:\\Users\\Training\\Source\\Repos\\CsharpTrainingDemo\\Regexsample\\FileHandlingDemo\\MultiThreadingDemo\\MultiThreadingDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Training\\source\\repos\\FileHandlingDemo\\MultiThreadingDemo\\MultiThreadingDemo.csproj",
+        "projectUniqueName": "C:\\Users\\Training\\Source\\Repos\\CsharpTrainingDemo\\Regexsample\\FileHandlingDemo\\MultiThreadingDemo\\MultiThreadingDemo.csproj",
         "projectName": "MultiThreadingDemo",
-        "projectPath": "C:\\Users\\Training\\source\\repos\\FileHandlingDemo\\MultiThreadingDemo\\MultiThreadingDemo.csproj",
+        "projectPath": "C:\\Users\\Training\\Source\\Repos\\CsharpTrainingDemo\\Regexsample\\FileHandlingDemo\\MultiThreadingDemo\\MultiThreadingDemo.csproj",
         "packagesPath": "C:\\Users\\Training\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Training\\source\\repos\\FileHandlingDemo\\MultiThreadingDemo\\obj\\",
+        "outputPath": "C:\\Users\\Training\\Source\\Repos\\CsharpTrainingDemo\\Regexsample\\FileHandlingDemo\\MultiThreadingDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Training\\AppData\\Roaming\\NuGet\\NuGet.Config",

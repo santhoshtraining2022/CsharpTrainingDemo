@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XS7O11eTRTbft4qdUcLvS7bKaW2DHz23ySMfXCPzeq5xfv6DNoEmya13+dCvDeOVMDmQ4NwWLwojLcfkf9Ch1w==",
+  "dgSpecHash": "nKFyk7j1kro7BVVwoZIuM6GgJQMlmwSE9hWBKpVwmeLs1jw6rg7B4aLHNWJXQzGYfD/3ucyoiLt9D0ADTFOD5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Training\\source\\repos\\FileHandlingDemo\\MultiThreadingDemo\\MultiThreadingDemo.csproj",
+  "projectFilePath": "C:\\Users\\Training\\Source\\Repos\\CsharpTrainingDemo\\Regexsample\\FileHandlingDemo\\MultiThreadingDemo\\MultiThreadingDemo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

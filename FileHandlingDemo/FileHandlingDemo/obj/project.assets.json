@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Training\\source\\repos\\FileHandlingDemo\\FileHandlingDemo\\FileHandlingDemo.csproj",
+      "projectUniqueName": "C:\\Users\\Training\\Source\\Repos\\CsharpTrainingDemo\\Regexsample\\FileHandlingDemo\\FileHandlingDemo\\FileHandlingDemo.csproj",
       "projectName": "FileHandlingDemo",
-      "projectPath": "C:\\Users\\Training\\source\\repos\\FileHandlingDemo\\FileHandlingDemo\\FileHandlingDemo.csproj",
+      "projectPath": "C:\\Users\\Training\\Source\\Repos\\CsharpTrainingDemo\\Regexsample\\FileHandlingDemo\\FileHandlingDemo\\FileHandlingDemo.csproj",
       "packagesPath": "C:\\Users\\Training\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Training\\source\\repos\\FileHandlingDemo\\FileHandlingDemo\\obj\\",
+      "outputPath": "C:\\Users\\Training\\Source\\Repos\\CsharpTrainingDemo\\Regexsample\\FileHandlingDemo\\FileHandlingDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Training\\AppData\\Roaming\\NuGet\\NuGet.Config",

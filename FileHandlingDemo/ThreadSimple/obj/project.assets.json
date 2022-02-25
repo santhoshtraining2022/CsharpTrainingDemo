@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Training\\source\\repos\\FileHandlingDemo\\ThreadSimple\\ThreadSimple.csproj",
+      "projectUniqueName": "C:\\Users\\Training\\Source\\Repos\\CsharpTrainingDemo\\Regexsample\\FileHandlingDemo\\ThreadSimple\\ThreadSimple.csproj",
       "projectName": "ThreadSimple",
-      "projectPath": "C:\\Users\\Training\\source\\repos\\FileHandlingDemo\\ThreadSimple\\ThreadSimple.csproj",
+      "projectPath": "C:\\Users\\Training\\Source\\Repos\\CsharpTrainingDemo\\Regexsample\\FileHandlingDemo\\ThreadSimple\\ThreadSimple.csproj",
       "packagesPath": "C:\\Users\\Training\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Training\\source\\repos\\FileHandlingDemo\\ThreadSimple\\obj\\",
+      "outputPath": "C:\\Users\\Training\\Source\\Repos\\CsharpTrainingDemo\\Regexsample\\FileHandlingDemo\\ThreadSimple\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Training\\AppData\\Roaming\\NuGet\\NuGet.Config",
