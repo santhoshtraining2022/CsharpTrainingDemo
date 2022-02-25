@@ -10,7 +10,7 @@ namespace ThreadSimple
         static void Main()
         {
 
-
+            //Trainee branch
 
             //   Thread childThread1 = new Thread(DisplayFunction);
             //   childThread1.Start();
