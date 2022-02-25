@@ -1,0 +1,16 @@
+C:\Users\Training\source\repos\CsharpTrainingDemo\RegexProgram\RegexProgram\bin\Debug\net5.0\RegexProgram.exe
+C:\Users\Training\source\repos\CsharpTrainingDemo\RegexProgram\RegexProgram\bin\Debug\net5.0\RegexProgram.deps.json
+C:\Users\Training\source\repos\CsharpTrainingDemo\RegexProgram\RegexProgram\bin\Debug\net5.0\RegexProgram.runtimeconfig.json
+C:\Users\Training\source\repos\CsharpTrainingDemo\RegexProgram\RegexProgram\bin\Debug\net5.0\RegexProgram.runtimeconfig.dev.json
+C:\Users\Training\source\repos\CsharpTrainingDemo\RegexProgram\RegexProgram\bin\Debug\net5.0\RegexProgram.dll
+C:\Users\Training\source\repos\CsharpTrainingDemo\RegexProgram\RegexProgram\bin\Debug\net5.0\ref\RegexProgram.dll
+C:\Users\Training\source\repos\CsharpTrainingDemo\RegexProgram\RegexProgram\bin\Debug\net5.0\RegexProgram.pdb
+C:\Users\Training\source\repos\CsharpTrainingDemo\RegexProgram\RegexProgram\obj\Debug\net5.0\RegexProgram.csproj.AssemblyReference.cache
+C:\Users\Training\source\repos\CsharpTrainingDemo\RegexProgram\RegexProgram\obj\Debug\net5.0\RegexProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\source\repos\CsharpTrainingDemo\RegexProgram\RegexProgram\obj\Debug\net5.0\RegexProgram.AssemblyInfoInputs.cache
+C:\Users\Training\source\repos\CsharpTrainingDemo\RegexProgram\RegexProgram\obj\Debug\net5.0\RegexProgram.AssemblyInfo.cs
+C:\Users\Training\source\repos\CsharpTrainingDemo\RegexProgram\RegexProgram\obj\Debug\net5.0\RegexProgram.csproj.CoreCompileInputs.cache
+C:\Users\Training\source\repos\CsharpTrainingDemo\RegexProgram\RegexProgram\obj\Debug\net5.0\RegexProgram.dll
+C:\Users\Training\source\repos\CsharpTrainingDemo\RegexProgram\RegexProgram\obj\Debug\net5.0\ref\RegexProgram.dll
+C:\Users\Training\source\repos\CsharpTrainingDemo\RegexProgram\RegexProgram\obj\Debug\net5.0\RegexProgram.pdb
+C:\Users\Training\source\repos\CsharpTrainingDemo\RegexProgram\RegexProgram\obj\Debug\net5.0\RegexProgram.genruntimeconfig.cache
