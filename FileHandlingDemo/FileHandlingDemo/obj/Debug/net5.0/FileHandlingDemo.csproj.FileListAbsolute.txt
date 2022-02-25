@@ -1,0 +1,16 @@
+C:\Users\Training\source\repos\FileHandlingDemo\FileHandlingDemo\bin\Debug\net5.0\FileHandlingDemo.exe
+C:\Users\Training\source\repos\FileHandlingDemo\FileHandlingDemo\bin\Debug\net5.0\FileHandlingDemo.deps.json
+C:\Users\Training\source\repos\FileHandlingDemo\FileHandlingDemo\bin\Debug\net5.0\FileHandlingDemo.runtimeconfig.json
+C:\Users\Training\source\repos\FileHandlingDemo\FileHandlingDemo\bin\Debug\net5.0\FileHandlingDemo.runtimeconfig.dev.json
+C:\Users\Training\source\repos\FileHandlingDemo\FileHandlingDemo\bin\Debug\net5.0\FileHandlingDemo.dll
+C:\Users\Training\source\repos\FileHandlingDemo\FileHandlingDemo\bin\Debug\net5.0\ref\FileHandlingDemo.dll
+C:\Users\Training\source\repos\FileHandlingDemo\FileHandlingDemo\bin\Debug\net5.0\FileHandlingDemo.pdb
+C:\Users\Training\source\repos\FileHandlingDemo\FileHandlingDemo\obj\Debug\net5.0\FileHandlingDemo.csproj.AssemblyReference.cache
+C:\Users\Training\source\repos\FileHandlingDemo\FileHandlingDemo\obj\Debug\net5.0\FileHandlingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\source\repos\FileHandlingDemo\FileHandlingDemo\obj\Debug\net5.0\FileHandlingDemo.AssemblyInfoInputs.cache
+C:\Users\Training\source\repos\FileHandlingDemo\FileHandlingDemo\obj\Debug\net5.0\FileHandlingDemo.AssemblyInfo.cs
+C:\Users\Training\source\repos\FileHandlingDemo\FileHandlingDemo\obj\Debug\net5.0\FileHandlingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Training\source\repos\FileHandlingDemo\FileHandlingDemo\obj\Debug\net5.0\FileHandlingDemo.dll
+C:\Users\Training\source\repos\FileHandlingDemo\FileHandlingDemo\obj\Debug\net5.0\ref\FileHandlingDemo.dll
+C:\Users\Training\source\repos\FileHandlingDemo\FileHandlingDemo\obj\Debug\net5.0\FileHandlingDemo.pdb
+C:\Users\Training\source\repos\FileHandlingDemo\FileHandlingDemo\obj\Debug\net5.0\FileHandlingDemo.genruntimeconfig.cache

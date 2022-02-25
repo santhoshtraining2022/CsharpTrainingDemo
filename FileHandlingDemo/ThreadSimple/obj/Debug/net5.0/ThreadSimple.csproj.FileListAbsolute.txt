@@ -1,0 +1,16 @@
+C:\Users\Training\source\repos\FileHandlingDemo\ThreadSimple\bin\Debug\net5.0\ThreadSimple.exe
+C:\Users\Training\source\repos\FileHandlingDemo\ThreadSimple\bin\Debug\net5.0\ThreadSimple.deps.json
+C:\Users\Training\source\repos\FileHandlingDemo\ThreadSimple\bin\Debug\net5.0\ThreadSimple.runtimeconfig.json
+C:\Users\Training\source\repos\FileHandlingDemo\ThreadSimple\bin\Debug\net5.0\ThreadSimple.runtimeconfig.dev.json
+C:\Users\Training\source\repos\FileHandlingDemo\ThreadSimple\bin\Debug\net5.0\ThreadSimple.dll
+C:\Users\Training\source\repos\FileHandlingDemo\ThreadSimple\bin\Debug\net5.0\ref\ThreadSimple.dll
+C:\Users\Training\source\repos\FileHandlingDemo\ThreadSimple\bin\Debug\net5.0\ThreadSimple.pdb
+C:\Users\Training\source\repos\FileHandlingDemo\ThreadSimple\obj\Debug\net5.0\ThreadSimple.csproj.AssemblyReference.cache
+C:\Users\Training\source\repos\FileHandlingDemo\ThreadSimple\obj\Debug\net5.0\ThreadSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\source\repos\FileHandlingDemo\ThreadSimple\obj\Debug\net5.0\ThreadSimple.AssemblyInfoInputs.cache
+C:\Users\Training\source\repos\FileHandlingDemo\ThreadSimple\obj\Debug\net5.0\ThreadSimple.AssemblyInfo.cs
+C:\Users\Training\source\repos\FileHandlingDemo\ThreadSimple\obj\Debug\net5.0\ThreadSimple.csproj.CoreCompileInputs.cache
+C:\Users\Training\source\repos\FileHandlingDemo\ThreadSimple\obj\Debug\net5.0\ThreadSimple.dll
+C:\Users\Training\source\repos\FileHandlingDemo\ThreadSimple\obj\Debug\net5.0\ref\ThreadSimple.dll
+C:\Users\Training\source\repos\FileHandlingDemo\ThreadSimple\obj\Debug\net5.0\ThreadSimple.pdb
+C:\Users\Training\source\repos\FileHandlingDemo\ThreadSimple\obj\Debug\net5.0\ThreadSimple.genruntimeconfig.cache

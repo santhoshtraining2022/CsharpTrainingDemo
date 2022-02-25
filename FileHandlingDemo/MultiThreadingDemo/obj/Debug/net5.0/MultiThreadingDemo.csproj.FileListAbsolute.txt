@@ -1,0 +1,16 @@
+C:\Users\Training\source\repos\FileHandlingDemo\MultiThreadingDemo\bin\Debug\net5.0\MultiThreadingDemo.exe
+C:\Users\Training\source\repos\FileHandlingDemo\MultiThreadingDemo\bin\Debug\net5.0\MultiThreadingDemo.deps.json
+C:\Users\Training\source\repos\FileHandlingDemo\MultiThreadingDemo\bin\Debug\net5.0\MultiThreadingDemo.runtimeconfig.json
+C:\Users\Training\source\repos\FileHandlingDemo\MultiThreadingDemo\bin\Debug\net5.0\MultiThreadingDemo.runtimeconfig.dev.json
+C:\Users\Training\source\repos\FileHandlingDemo\MultiThreadingDemo\bin\Debug\net5.0\MultiThreadingDemo.dll
+C:\Users\Training\source\repos\FileHandlingDemo\MultiThreadingDemo\bin\Debug\net5.0\ref\MultiThreadingDemo.dll
+C:\Users\Training\source\repos\FileHandlingDemo\MultiThreadingDemo\bin\Debug\net5.0\MultiThreadingDemo.pdb
+C:\Users\Training\source\repos\FileHandlingDemo\MultiThreadingDemo\obj\Debug\net5.0\MultiThreadingDemo.csproj.AssemblyReference.cache
+C:\Users\Training\source\repos\FileHandlingDemo\MultiThreadingDemo\obj\Debug\net5.0\MultiThreadingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\source\repos\FileHandlingDemo\MultiThreadingDemo\obj\Debug\net5.0\MultiThreadingDemo.AssemblyInfoInputs.cache
+C:\Users\Training\source\repos\FileHandlingDemo\MultiThreadingDemo\obj\Debug\net5.0\MultiThreadingDemo.AssemblyInfo.cs
+C:\Users\Training\source\repos\FileHandlingDemo\MultiThreadingDemo\obj\Debug\net5.0\MultiThreadingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Training\source\repos\FileHandlingDemo\MultiThreadingDemo\obj\Debug\net5.0\MultiThreadingDemo.dll
+C:\Users\Training\source\repos\FileHandlingDemo\MultiThreadingDemo\obj\Debug\net5.0\ref\MultiThreadingDemo.dll
+C:\Users\Training\source\repos\FileHandlingDemo\MultiThreadingDemo\obj\Debug\net5.0\MultiThreadingDemo.pdb
+C:\Users\Training\source\repos\FileHandlingDemo\MultiThreadingDemo\obj\Debug\net5.0\MultiThreadingDemo.genruntimeconfig.cache
