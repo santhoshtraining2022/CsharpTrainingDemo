@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Training\\source\\repos\\CsharpTrainingDemo\\FileHandlingDemo\\ThreadSimple\\ThreadSimple.csproj": {}
+    "C:\\Users\\Training\\source\\repos\\CsharpTrainingDemo\\FileHandlingDemo\\DataProvider\\DataProvider.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Training\\source\\repos\\CsharpTrainingDemo\\FileHandlingDemo\\ThreadSimple\\ThreadSimple.csproj": {
+    "C:\\Users\\Training\\source\\repos\\CsharpTrainingDemo\\FileHandlingDemo\\DataProvider\\DataProvider.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Training\\source\\repos\\CsharpTrainingDemo\\FileHandlingDemo\\ThreadSimple\\ThreadSimple.csproj",
-        "projectName": "ThreadSimple",
-        "projectPath": "C:\\Users\\Training\\source\\repos\\CsharpTrainingDemo\\FileHandlingDemo\\ThreadSimple\\ThreadSimple.csproj",
+        "projectUniqueName": "C:\\Users\\Training\\source\\repos\\CsharpTrainingDemo\\FileHandlingDemo\\DataProvider\\DataProvider.csproj",
+        "projectName": "DataProvider",
+        "projectPath": "C:\\Users\\Training\\source\\repos\\CsharpTrainingDemo\\FileHandlingDemo\\DataProvider\\DataProvider.csproj",
         "packagesPath": "C:\\Users\\Training\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Training\\source\\repos\\CsharpTrainingDemo\\FileHandlingDemo\\ThreadSimple\\obj\\",
+        "outputPath": "C:\\Users\\Training\\source\\repos\\CsharpTrainingDemo\\FileHandlingDemo\\DataProvider\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Training\\AppData\\Roaming\\NuGet\\NuGet.Config",
